@@ -1,0 +1,7 @@
+System.Runtime
+Newtonsoft.Json
+Google.Gdata.Client.Core
+Core.Google.GData.Extensions
+Google.GData.Client
+Google.GData.Extensions
+Google.GData.Spreadsheets
