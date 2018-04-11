@@ -1,0 +1,2 @@
+android.app.Application
+KLASSNFCLogin_LoginOnly.KLASSNFCLogin_LoginOnly
